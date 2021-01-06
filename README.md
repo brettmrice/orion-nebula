@@ -1,4 +1,4 @@
-# [Orion Nebula , M42, NGC 1976](brettmrice.com/orion-nebula)
+# [Orion Nebula , M42, NGC 1976](brettmrice.com/orion-nebula/)
 
 18000 X 18000 pixel resolution = 324 megapixels
 
